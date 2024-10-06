@@ -1,5 +1,7 @@
 <h1 align="center">✨ Interactive Path-Finder ✨</h1>
-
+<p align="center">
+    <a href="https://gifyu.com/image/SB31q"><img src="https://s11.gifyu.com/images/SB31q.gif" alt="git py" border="0" /></a>
+</p>
 <p align="center"><strong>A dynamic path-finding visualization tool built with Python and Pygame.</strong></p>
 
 ---
